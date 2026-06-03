@@ -42,8 +42,6 @@ env/
 Thumbs.db
 
 # Proyecto - archivos generados
-*.pptx
-*resumen*.md
 *.png
 *.jpg
 *.jpeg
@@ -55,7 +53,6 @@ Thumbs.db
 save/
 output/
 results/
-.agent/
 
 # Modelos y datasets grandes
 *.h5
